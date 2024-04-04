@@ -57,11 +57,19 @@ li{
     display: inline;
 }
 
-#info{
+span{
+    font-size: 10px;
+}
+
+#info1{
     background-color: lightblue;
+    border-radius: 20%;
+    padding: 2px;
+
 }
 
 hr{
     color: lightblue;
     padding: 0.1rem;
+    border-radius: 20%;
 }
