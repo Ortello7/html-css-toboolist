@@ -1,3 +1,7 @@
+body{
+    background-color: lightblue;
+}
+
 header{
     background-color: white;
     padding: 2rem 4rem;
@@ -18,11 +22,12 @@ h1{
 }
 
 main{
-    margin: auto;
+    margin-bottom: 20rem;
     padding: 4rem;
     border-radius: 0.1rem;
     border: 4rem;
     color: white;
+    background-color: white;
 }
 
 #button1{
@@ -48,10 +53,15 @@ main{
     color: lightblue;
 }
 
-footer{
-    margin: 50%;
-    padding: 2em;
-    border-radius: 0.1rem;
-    border-color: white;
-    color: white;
+li{
+    display: inline;
+}
+
+#info{
+    background-color: lightblue;
+}
+
+hr{
+    color: lightblue;
+    padding: 0.1rem;
 }
